@@ -2,7 +2,7 @@
 
 Plugins for the Xed text editor
 
-
+---
 
 ## What is Xed?
 
@@ -70,7 +70,7 @@ Close and reopen Xed:
 xed
 ```
 
-
+---
 
 ### 5. Enable the plugin
 
@@ -86,7 +86,7 @@ Enable:
 Invert Selection
 ```
 
-
+---
 
 ## Usage
 
@@ -98,7 +98,7 @@ Invert Selection
 
 The selected text will be reversed in place.
 
-
+---
 
 ## Notes
 

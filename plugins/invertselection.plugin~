@@ -1,0 +1,10 @@
+[Plugin]
+Loader=python3
+Module=invertselection
+IAge=3
+Name=Invert Selection
+Description=Reverse the currently selected text
+Authors=BjörnFJohansson
+Copyright=Copyright © 2026
+Website=https://github.com/BjornFJohansson/xed-plugins
+Version=1.0
