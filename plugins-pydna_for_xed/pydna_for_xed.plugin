@@ -1,0 +1,10 @@
+[Plugin]
+Loader=python3
+Module=pydna_for_xed
+IAge=3
+Name=pydna for xed
+Description=Pydna functions in xed
+Authors=BjörnFJohansson
+Copyright=Copyright © 2026
+Website=https://github.com/BjornFJohansson/xed-plugins
+Version=0.1
